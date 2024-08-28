@@ -1,6 +1,6 @@
 # vue-project
-
-This template should help get you started developing with Vue 3 in Vite.
+Ссыслка на деплой
+https://thunderous-truffle-b380f8.netlify.app
 
 ## Recommended IDE Setup
 
