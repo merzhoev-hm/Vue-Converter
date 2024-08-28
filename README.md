@@ -1,5 +1,5 @@
 # vue-project
-Ссыслка на деплой
+Ссылка на деплой
 https://thunderous-truffle-b380f8.netlify.app
 
 ## Recommended IDE Setup
